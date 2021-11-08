@@ -14,6 +14,9 @@ module.exports = {
         customBlack: '#222222'
       }
     },
+    screens: {
+      'xs': '320px'
+    }
   },
   variants: {
     extend: {},
